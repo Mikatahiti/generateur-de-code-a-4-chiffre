@@ -15,7 +15,7 @@ Assurez-vous d'avoir Python installé sur votre système. Vous pouvez téléchar
 ## Installation
 
 1. Clonez ou téléchargez ce dépôt sur votre machine.
-2. Assurez-vous d'avoir toutes les dépendances installées. Si ce n'est pas le cas, vous pouvez les installer en exécutant `pip install -r requirements.txt`.
+2. Assurez-vous d'avoir toutes les dépendances installées.(j'utilise uniquement Tkinter)
 3. Exécutez le programme en exécutant le fichier `generate_code.py`.
 
 ## Utilisation
