@@ -20,7 +20,7 @@ Assurez-vous d'avoir Python installé sur votre système. Vous pouvez téléchar
 
 ## Utilisation
 
-1. Lancez le programme en exécutant `main.py`.
+1. Lancez le programme en exécutant `generate_code.py`.
 2. Le programme affiche la date du jour et un champ d'entrée pour le code généré.
 3. Cliquez sur le bouton "Générer Code" pour générer un nouveau code unique.
 4. Cliquez sur le bouton "Enregistrer" pour enregistrer le code généré dans la base de données.
